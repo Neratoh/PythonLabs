@@ -1,0 +1,4 @@
+This is text file TF18_1 with different length strings.
+Second line of TF18_1.
+This is text file TF18_2 with different content.
+Second line of TF18_2.
